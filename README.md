@@ -1,11 +1,3 @@
-![image](https://github.com/user-attachments/assets/82dea1e3-364f-4aa8-b6cc-1c5e4a4693ce)
-
-
-
-
-
-
-
 # HI 👋, IM QUEEN NKUNA
 ## ABOUT ME
 im a passionate data enthusiast with a background in journalism and a growing expertise in data science. My journey began in storytelling, where I honed my ability to uncover insights and communicate impactful narratives. Today, I combine that foundation with my love for analytics to explore data, build models, and create solutions that drive meaningful change.
