@@ -33,6 +33,9 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 ##### Version Control: Git, GitHub
 ##### Other Tools: Canva (for presentations), Jupyter Notebooks, Streamlit
 
+![image](https://github.com/user-attachments/assets/66b16502-15b7-4abf-93a4-9ebe77b2065c)
+
+
 ## 📚 CURRENTLY READING
 Becoming a Data Head by Alex J. Gutman & Jordan Goldmeier - A fascinating book exploring successful data leaders' mindsets and thought processes.
 
