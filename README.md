@@ -7,17 +7,6 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 ## SKILLS AND EXPERTISE
 #### I’m always learning and expanding my skillset, Currently, I am expanding my skill set in Web Development, mastering front-end technologies like HTML, CSS, and JavaScript to design responsive, user-centric web applications that emphasize accessibility and engagement.
 
-##### I have obtained certifications in:
-
-##### Introduction to Python in Data Science and Data Engineering
-##### Introduction to Data Analysis in R and Excel
-##### Digital Marketing
-##### Virtual Assistance
-##### Programming Languages
-##### Artificial Intelligence
-##### TEFL (Teaching English as a Foreign Language)
-##### SQL for Beginners
-
 ### 1. Data Science Skills
 
 ##### Data Cleaning and Preprocessing
