@@ -4,6 +4,6 @@ im passionate data enthusiast with a background in journalism and a growing expe
 
 With experience in data cleaning, exploratory analysis, machine learning, and visualization, I enjoy working on projects that solve real-world problems—whether it's predicting outcomes, uncovering trends, or improving processes. My journalism background gives me a unique edge in investigative analytics, allowing me to ask the right questions and communicate findings clearly and effectively.
 
-##SKILLS AND EXPERTISE
+## SKILLS AND EXPERTISE
 I’m always learning and expanding my skillset
 
