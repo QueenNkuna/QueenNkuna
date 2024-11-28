@@ -1,3 +1,11 @@
+![image](https://github.com/user-attachments/assets/82dea1e3-364f-4aa8-b6cc-1c5e4a4693ce)
+
+
+
+
+
+
+
 # HI 👋, IM QUEEN NKUNA
 ## ABOUT ME
 im a passionate data enthusiast with a background in journalism and a growing expertise in data science. My journey began in storytelling, where I honed my ability to uncover insights and communicate impactful narratives. Today, I combine that foundation with my love for analytics to explore data, build models, and create solutions that drive meaningful change.
@@ -37,6 +45,7 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 ## 📚 CURRENTLY READING
 Python for Data Analysis by Wes McKinney- it provides a hands-on approach to mastering data cleaning, analysis, and visualization techniques, which are essential for solving real-world data science problems.
 
+## CONTACTS
 ##### mobile: 27 60 460 9219
 ##### LinkedIn: https://www.linkedin.com/in/queen-nkuna-607a30307/
 ##### Email: queennkuna96@gmail.com
