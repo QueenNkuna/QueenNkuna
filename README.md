@@ -5,7 +5,7 @@ im a passionate data enthusiast with a background in journalism and a growing ex
 With experience in data cleaning, exploratory analysis, machine learning, and visualization, I enjoy working on projects that solve real-world problems—whether it's predicting outcomes, uncovering trends, or improving processes. My journalism background gives me a unique edge in investigative analytics, allowing me to ask the right questions and communicate findings clearly and effectively.
 
 ## SKILLS AND EXPERTISE
-### I’m always learning and expanding my skillset, Currently, I am expanding my skill set in Web Development, mastering front-end technologies like HTML, CSS, and JavaScript to design responsive, user-centric web applications that emphasize accessibility and engagement.
+#### I’m always learning and expanding my skillset, Currently, I am expanding my skill set in Web Development, mastering front-end technologies like HTML, CSS, and JavaScript to design responsive, user-centric web applications that emphasize accessibility and engagement.
 
 ##### I have obtained certifications in:
 
@@ -18,7 +18,7 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 ##### TEFL (Teaching English as a Foreign Language)
 ##### SQL for Beginners
 
-#### 1. Data Science Skills
+### 1. Data Science Skills
 
 ##### Data Cleaning and Preprocessing
 ##### Exploratory Data Analysis (EDA)
@@ -27,7 +27,7 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 ##### Statistical Analysis and Hypothesis Testing
 ##### Feature Engineering
 
-#### 2. Journalism & Communication Skills
+### 2. Journalism & Communication Skills
 
 ##### Investigative Analytics
 ##### Narrative Development and Storytelling
@@ -35,7 +35,7 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 ##### Data-Driven Reporting
 ##### Critical Thinking and Analytical Writing
 
-#### 3. Tools & Technologies
+### 3. Tools & Technologies
 
 ##### Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), R
 ##### Data Visualization: Power BI
