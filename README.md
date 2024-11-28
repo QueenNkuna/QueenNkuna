@@ -8,7 +8,7 @@
 ### I’m always learning and expanding my skillset
 #### 1. Data Science Skills
 
-##### . Data Cleaning and Preprocessing
+##### Data Cleaning and Preprocessing
 ##### Exploratory Data Analysis (EDA)
 ##### Predictive Modeling and Machine Learning
 ##### Data Visualization and Storytelling
