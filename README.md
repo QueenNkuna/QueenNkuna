@@ -35,9 +35,8 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 ##### Other Tools: Canva (for presentations), Jupyter Notebooks, Streamlit
 
 ## 📚 CURRENTLY READING
-Becoming a Data Head by Alex J. Gutman & Jordan Goldmeier - A fascinating book exploring successful data leaders' mindsets and thought processes.
+Python for Data Analysis by Wes McKinney- it provides a hands-on approach to mastering data cleaning, analysis, and visualization techniques, which are essential for solving real-world data science problems.
 
-## 📫 CONTACTS
 ##### mobile: 27 60 460 9219
 ##### LinkedIn: https://www.linkedin.com/in/queen-nkuna-607a30307/
 ##### Email: queennkuna96@gmail.com
