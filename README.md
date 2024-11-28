@@ -36,8 +36,8 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 #### 📚 Currently Reading
 Becoming a Data Head by Alex J. Gutman & Jordan Goldmeier - A fascinating book exploring successful data leaders' mindsets and thought processes.
 
-📫 Contact
-mobile: 27 60 460 9219
-LinkedIn: https://www.linkedin.com/in/queen-nkuna-607a30307/
-Email: queennkuna96@gmail.com
+#### 📫 Contact
+##### mobile: 27 60 460 9219
+##### LinkedIn: https://www.linkedin.com/in/queen-nkuna-607a30307/
+##### Email: queennkuna96@gmail.com
 
