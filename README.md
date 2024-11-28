@@ -1,2 +1,1 @@
-# HI
-# IM QUEEN NKUNA
+# HI 👋, IM QUEEN NKUNA
