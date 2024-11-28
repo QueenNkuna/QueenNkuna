@@ -5,7 +5,19 @@ im a passionate data enthusiast with a background in journalism and a growing ex
 With experience in data cleaning, exploratory analysis, machine learning, and visualization, I enjoy working on projects that solve real-world problems—whether it's predicting outcomes, uncovering trends, or improving processes. My journalism background gives me a unique edge in investigative analytics, allowing me to ask the right questions and communicate findings clearly and effectively.
 
 ## SKILLS AND EXPERTISE
-### I’m always learning and expanding my skillset
+### I’m always learning and expanding my skillset, Currently, I am expanding my skill set in Web Development, mastering front-end technologies like HTML, CSS, and JavaScript to design responsive, user-centric web applications that emphasize accessibility and engagement.
+
+##### I have obtained certifications in:
+
+##### Introduction to Python in Data Science and Data Engineering
+##### Introduction to Data Analysis in R and Excel
+##### Digital Marketing
+##### Virtual Assistance
+##### Programming Languages
+##### Artificial Intelligence
+##### TEFL (Teaching English as a Foreign Language)
+##### SQL for Beginners
+
 #### 1. Data Science Skills
 
 ##### Data Cleaning and Preprocessing
