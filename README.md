@@ -16,7 +16,7 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 ##### Statistical Analysis and Hypothesis Testing
 ##### Feature Engineering
 
-### 2. other Skills
+### 2. Other Skills
 
 ##### Investigative Analytics
 ##### Narrative Development and Storytelling
