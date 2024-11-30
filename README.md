@@ -9,25 +9,15 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 
 ### 1. Data Science Skills
 
-##### Data Cleaning and Preprocessing. Exploratory Data Analysis (EDA). Predictive Modeling and Machine Learning. Data Visualization and Storytellin. Statistical Analysis and Hypothesis Testing. Feature Engineering
+##### Data Cleaning and Preprocessing. Exploratory Data Analysis (EDA). Predictive Modeling and Machine Learning. Data Visualization and Storytelling. Statistical Analysis and Hypothesis Testing. Feature Engineering.
 
 ### 2. Other Skills
 
-##### Investigative Analytics
-##### Narrative Development and Storytelling
-##### Research and Fact-Checking
-##### Data-Driven Reporting
-##### Critical Thinking and Analytical Writing
+##### Investigative Analytics. Narrative Development and Storytelling. Research and Fact-Checking. Data-Driven Reporting. Critical Thinking and Analytical Writing
 
 ### 3. Tools & Technologies
 
-##### Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), R
-##### Data Visualization: Power BI
-##### Databases: SQL (MySQL, PostgreSQL)
-##### Data Management: Excel, Google Sheets
-##### Cloud Platforms: Google Cloud, AWS (basic experience)
-##### Version Control: Git, GitHub
-##### Other Tools: Canva (for presentations), Jupyter Notebooks, Streamlit
+##### Programming: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) R. Data Visualization: Power BI. Databases: SQL (MySQL, PostgreSQL). Data Management: Excel, Google Sheets. Cloud Platforms: Google Cloud, AWS (basic experience). Version Control: Git, GitHub. Other Tools: Canva (for presentations), Jupyter Notebooks, Streamlit.
 
 ## 📚 CURRENTLY READING
 Python for Data Analysis by Wes McKinney- it provides a hands-on approach to mastering data cleaning, analysis, and visualization techniques, which are essential for solving real-world data science problems.
