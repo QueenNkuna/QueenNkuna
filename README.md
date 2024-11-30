@@ -9,11 +9,11 @@ With experience in data cleaning, exploratory analysis, machine learning, and vi
 
 ### 1. Data Science Skills
 
-Data Cleaning and Preprocessing. Exploratory Data Analysis (EDA). Predictive Modeling and Machine Learning. Data Visualization and Storytelling. Statistical Analysis and Hypothesis Testing. Feature Engineering.
+Data Cleaning and Preprocessing. Exploratory Data Analysis (EDA). Predictive Modeling and Machine Learning. Data Visualization and Storytelling.Feature Engineering.  Statistical Analysis and Hypothesis Testing.
 
 ### 2. Other Skills
 
-Investigative Analytics. Narrative Development and Storytelling. Research and Fact-Checking. Data-Driven Reporting. Critical Thinking and Analytical Writing
+Investigative Analytics. Narrative Development. Research and Fact-Checking. Data-Driven Reporting. Critical Thinking and Analytical Writing
 
 ### 3. Tools & Technologies
 
